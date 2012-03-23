@@ -1,0 +1,7 @@
+self: play -> autotest 0.1
+
+require:
+    - play 1.2.4
+    - selenium-java 2.16.1
+    - webdriver-opera v0.5.2
+    - jmock 2.5.1
